@@ -10,7 +10,7 @@
   <p align="center">
     <br />
     <br />
-    <a href="https://lovealbum.netlify.app/">View Demo</a>
+    <a href="https://rinuflix.netlify.app/">View Demo</a>
     <br />
     <br />
     <p>The netflix couldn't stop adoring her so they decided to capture her beauty by building a whole new server dedicated to that girl... and some random guy who's with her 24/7 (ignore him).
